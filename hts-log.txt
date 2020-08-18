@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 27 Jul 2020 15:58:27 at https://www.freemon.co.kr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.freemon.co.kr/ -O1 "D:\Semi_Project\freemon\semi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:58:28	Warning: 	Note: due to https://www.freemon.co.kr remote robots.txt rules, links beginning with these path will be forbidden: /insamin (see in the options to disable this)
+15:58:29	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/reset.css (from https://www.freemon.co.kr/)
+15:59:22	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/images/new/i_contract_on.png (from https://www.freemon.co.kr/resources/css/new.css?version=4.8)
+15:59:23	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.freemon.co.kr/home)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/images/common/step6.png (from https://www.freemon.co.kr/resources/css/style.css?version=1.9)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-bg_glass_100_f6f6f6_1x400.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-bg_glass_100_fdf5ce_1x400.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-icons_222222_256x240.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-icons_ef8c08_256x240.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-icons_228ef1_256x240.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-icons_ffd27a_256x240.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+15:59:46	Error: 	"Not Found" (404) at link https://www.freemon.co.kr/resources/css/images/ui-bg_flat_10_000000_40x100.png (from https://www.freemon.co.kr/resources/css/career-ui.min.css?version=2.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 303 links scanned, 290 files written (7505305 bytes overall) [7602816 bytes received at 93861 bytes/sec], 123395 bytes transferred using HTTP compression in 1 files, ratio 30%, 48.8 requests per connection
+(12 errors, 1 warnings, 0 messages)
